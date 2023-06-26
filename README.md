@@ -19,4 +19,6 @@ Mixed lo-res and hi-res modes with monochrome text and no color fringing<br>
 <br>
 Original design by Mark Aikens. Some minor modifications were made and a board layout made using original PI Pico source code. All parts are through hole for easy assembly. No surface mount components, simple to build.
 <br>
+<br>
 
+Original design info: https://github.com/markadev/AppleII-VGA
