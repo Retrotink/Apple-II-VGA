@@ -17,6 +17,8 @@ Hi-res mode with simulated NTSC artifact color<br>
 Mixed lo-res and hi-res modes with monochrome text and no color fringing<br>
 ![screen demo](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/a0ca7209-4e73-4d6d-adb1-44c97370cf58)
 <br>
+# Acknowledgements
+
 Original design by Mark Aikens. Some minor modifications were made and a board layout made using original PI Pico source code. All parts are through hole for easy assembly. No surface mount components, simple to build.
 <br>
 <br>
