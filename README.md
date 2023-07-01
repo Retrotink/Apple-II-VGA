@@ -1,6 +1,7 @@
 
 ![logo](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/ddd4965e-1eef-4c7f-b45d-a95e59e9537a)
-
+<br>
+Apple IIe DHR and 80 column being tested now
 <br>
 
 ![appleIIvga](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/6de70c4a-55b0-410c-aaee-c455f300293b)
