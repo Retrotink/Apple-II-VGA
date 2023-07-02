@@ -14,7 +14,7 @@ Text mode (monochrome)<br>
 Lo-res mode with no color fringing between the chunky pixels<br>
 Hi-res mode with simulated NTSC artifact color<br>
 Mixed lo-res and hi-res modes with monochrome text and no color fringing<br>
-DHGR and 80 column mode on the //e only<br>
+Double hi-res and 80 column mode on the //e only<br>
 ![screen demo](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/a0ca7209-4e73-4d6d-adb1-44c97370cf58)
 <br>
 
