@@ -44,7 +44,7 @@ Place the resistor into the resistor location until it is flush with the PCB. <b
 Turn the board over holding the resistor in its place and bend the wires outward just slightly so the resistor can not back out of the holes. <br>
 While the bottom of the board is facing up flat on your workspace, solder each of the two wires on the resistor. <br>
 Make sure your solder stays only on the resistor wire and the hole. <br>
-Cut the excess lead off the resistor. Repeat this procedure for all of the resistors.
+Cut the excess lead off the resistor. Repeat this procedure for all of the resistors.<br>
 <br>
 Step 2: The Voltage Regulator<br>
 ![vr](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/2827283f-cf5f-4677-91dc-9fef570002bb)
