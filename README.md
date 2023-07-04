@@ -25,3 +25,20 @@ Original design by Mark Aikens. Some minor modifications were made and a board l
 <br>
 
 Original design info: https://github.com/markadev/AppleII-VGA
+
+# Soldering the Apple II VGA Card
+<br>
+
+Step 1: The Resistors<br>
+![resistor](https://github.com/Retrotink/PockeTerm-II/assets/121696513/01a7b73d-7fd2-4fa3-94ff-4ebca1492b9e)
+<br>
+Resistors are not polarized so they can be installed either direction. I like to start with the 100ohm resistors and work my way up to the 10K ohm resistors. The gold band is the percentage of accuracy. To read a resistor, start at the opposite side of the gold band.<br>
+<br>
+47 ohm resistors - qty 2 - Colors Yellow Violet Black<br>
+510 ohm resistors - qty 3 - Colors Green Brown Brown<br>
+1K ohm resistors - qty 6 - Colors Brown Black Red<br>
+2K ohm resistors - qty 3 - Colors Red Black Red<br>
+10K ohm resistors - qty 4 - Colors Brown Black Orange<br>
+<br>
+Step 2: The Voltage Regulator<br>
+![vr](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/2827283f-cf5f-4677-91dc-9fef570002bb)
