@@ -52,4 +52,15 @@ Step 2: The Voltage Regulator<br>
 Insert the Voltage Regulator and fold it over so it lays flat on its back.<br>
 Place the small screw into the top hole and through the board.<br>
 Place the nut on the screw on the back of the board and tighten down.<br>
-Solder all 3 pins and cut the extra leads short with the board.
+Solder all 3 pins and cut the extra leads short with the board.<br>
+<br>
+Step 3: Install the three 20 pin sockets<br>
+![socket](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/fdd57e89-5894-406d-9665-edc82d9600fb)<br>
+The socket has a notch on one end that matches the PCB.<br>
+Place one socket into position and while holding the socket, turn the board over and lay flat on the table.<br>
+Hold the board level and solder 1 pin down. Turn the board over and check that the board is flush with the PCB.<br>
+If not, apply heat to the pin while pushing the socket flush to the PCB<br>
+Solder the remaining pins on the socket and repeat for the other 2 sockets<br>
+Step 4: Install the 3 .1uF capacitors<br>
+
+
