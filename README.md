@@ -29,7 +29,7 @@ Original design info: https://github.com/markadev/AppleII-VGA
 # Soldering the Apple II VGA Card
 <br>
 
-Step 1: The Resistors<br>
+## Step 1: The Resistors<br>
 ![resistor](https://github.com/Retrotink/PockeTerm-II/assets/121696513/01a7b73d-7fd2-4fa3-94ff-4ebca1492b9e)
 <br>
 Resistors are not polarized so they can be installed either direction. I like to start with the 100ohm resistors and work my way up to the 10K ohm resistors. The gold band is the percentage of accuracy. To read a resistor, start at the opposite side of the gold band.<br>
@@ -46,7 +46,7 @@ While the bottom of the board is facing up flat on your workspace, solder each o
 Make sure your solder stays only on the resistor wire and the hole. <br>
 Cut the excess lead off the resistor. Repeat this procedure for all of the resistors.<br>
 <br>
-Step 2: The Voltage Regulator<br>
+## Step 2: The Voltage Regulator<br>
 ![vr](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/2827283f-cf5f-4677-91dc-9fef570002bb)
 <br>
 Insert the Voltage Regulator and fold it over so it lays flat on its back.<br>
@@ -54,7 +54,7 @@ Place the small screw into the top hole and through the board.<br>
 Place the nut on the screw on the back of the board and tighten down.<br>
 Solder all 3 pins and cut the extra leads short with the board.<br>
 <br>
-Step 3: Install the three 20 pin sockets<br>
+## Step 3: Install the three 20 pin sockets<br>
 ![socket](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/fdd57e89-5894-406d-9665-edc82d9600fb)<br>
 The socket has a notch on one end that matches the PCB.<br>
 Place one socket into position and while holding the socket, turn the board over and lay flat on the table.<br>
@@ -62,14 +62,14 @@ Hold the board level and solder 1 pin down. Turn the board over and check that t
 If not, apply heat to the pin while pushing the socket flush to the PCB<br>
 Solder the remaining pins on the socket and repeat for the other 2 sockets<br>
 <br>
-Step 4: Install the 3 .1uF capacitors<br>
+## Step 4: Install the 3 .1uF capacitors<br>
 ![cap 1](https://github.com/Retrotink/PockeTerm-II/assets/121696513/b4f1ca5c-9019-4a8d-b8e1-dcfbb06bebc8)
 
 Install the three .1uF caps into their locations. The caps are labeled 104 and are not polarized so they can be installed either way.<br> 
 Fit as flush as possible, bend the 2 wires apart a little so the capacitor does not fall out, turn the board over and set it on your workspace. <br>
 Solder the leads onto the PCB and cut away the excess lead length.<br>
 <br>
-Step 5: Install the 10uF Electrolytic Capacitor<br>
+## Step 5: Install the 10uF Electrolytic Capacitor<br>
 ![cap10](https://github.com/Retrotink/PockeTerm-II/assets/121696513/c7e23a6e-7e4a-4e91-b1af-82b1a7c92350)
 
 The capacitor is polarized and must be installed correctly. <br>
@@ -81,18 +81,17 @@ Install flush with the PCB and fold it over so it lays between the .1uF cap and 
 Then bend the two leads slightly apart from one another. <br>
 Turn the board over and solder onto the PCB. Cut the excess lead on the capacitor.<br>
 <br>
-Step 6: Install the Raspberry Pi Pico board<br>
+## Step 6: Install the Raspberry Pi Pico board<br>
 ![pico](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/698e874b-df7a-4ea0-a0c4-bccfb4054d1c)
 <br>
 <br>
-
-CAUTION: Verify correct orientation before soldering down the Rasperry Pi Pico!<br>
+## CAUTION: Verify correct orientation before soldering down the Rasperry Pi Pico!<br>
 Place the two 20 pin stand offs onto the board.<br>
 Then place the Pico onto the stand offs and make sure everything fits flush.<br>
 The Pico should be facing with the USB connector towards the VGA connector location.<br>
 Solder the 40 pins onto the Pico then hold down the Pico, flip the board and solder the pins to the PCB<br>
 <br>
-Step 7: Install the VGA connector<br>
+## Step 7: Install the VGA connector<br>
 ![vga](https://github.com/Retrotink/PockeTerm-II/assets/121696513/09b62c6e-56cd-4fdc-ab0c-45e3034e3894)
 
 The VGA connector has 3 rows of pins. <br>
