@@ -39,6 +39,17 @@ Resistors are not polarized so they can be installed either direction. I like to
 1K ohm resistors - qty 6 - Colors Brown Black Red<br>
 2K ohm resistors - qty 3 - Colors Red Black Red<br>
 10K ohm resistors - qty 4 - Colors Brown Black Orange<br>
+Bend the metal wires at a 90 degree angle on each side of the resistor body.<br>
+Place the resistor into the resistor location until it is flush with the PCB. <br>
+Turn the board over holding the resistor in its place and bend the wires outward just slightly so the resistor can not back out of the holes. <br>
+While the bottom of the board is facing up flat on your workspace, solder each of the two wires on the resistor. <br>
+Make sure your solder stays only on the resistor wire and the hole. <br>
+Cut the excess lead off the resistor. Repeat this procedure for all of the resistors.
 <br>
 Step 2: The Voltage Regulator<br>
 ![vr](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/2827283f-cf5f-4677-91dc-9fef570002bb)
+<br>
+Insert the Voltage Regulator and fold it over so it lays flat on its back.<br>
+Place the small screw into the top hole and through the board.<br>
+Place the nut on the screw on the back of the board and tighten down.<br>
+Solder all 3 pins and cut the extra leads short with the board.
