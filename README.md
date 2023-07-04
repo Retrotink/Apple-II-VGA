@@ -82,6 +82,10 @@ Then bend the two leads slightly apart from one another. <br>
 Turn the board over and solder onto the PCB. Cut the excess lead on the capacitor.<br>
 <br>
 Step 6: Install the Raspberry Pi Pico board<br>
+![pico](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/698e874b-df7a-4ea0-a0c4-bccfb4054d1c)
+<br>
+<br>
+
 CAUTION: Verify correct orientation before soldering down the Rasperry Pi Pico!<br>
 Place the two 20 pin stand offs onto the board.<br>
 Then place the Pico onto the stand offs and make sure everything fits flush.<br>
