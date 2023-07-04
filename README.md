@@ -61,6 +61,44 @@ Place one socket into position and while holding the socket, turn the board over
 Hold the board level and solder 1 pin down. Turn the board over and check that the board is flush with the PCB.<br>
 If not, apply heat to the pin while pushing the socket flush to the PCB<br>
 Solder the remaining pins on the socket and repeat for the other 2 sockets<br>
+<br>
 Step 4: Install the 3 .1uF capacitors<br>
+![cap 1](https://github.com/Retrotink/PockeTerm-II/assets/121696513/b4f1ca5c-9019-4a8d-b8e1-dcfbb06bebc8)
+
+Install the three .1uF caps into their locations. The caps are labeled 104 and are not polarized so they can be installed either way.<br> 
+Fit as flush as possible, bend the 2 wires apart a little so the capacitor does not fall out, turn the board over and set it on your workspace. <br>
+Solder the leads onto the PCB and cut away the excess lead length.<br>
+<br>
+Step 5: Install the 10uF Electrolytic Capacitor<br>
+![cap10](https://github.com/Retrotink/PockeTerm-II/assets/121696513/c7e23a6e-7e4a-4e91-b1af-82b1a7c92350)
+
+The capacitor is polarized and must be installed correctly. <br>
+It is cylinder shaped and both leads protrude from the same side and are labeled 10uF. <br>
+There are two ways to tell the + and - leads. <br>
+First, looking at the leads, the + is longer than the – lead. <br>
+Secondly, there is a large white arrow pointing to the - lead. <br>
+Install flush with the PCB and fold it over so it lays between the .1uF cap and the voltage regulator.<br>
+Then bend the two leads slightly apart from one another. <br>
+Turn the board over and solder onto the PCB. Cut the excess lead on the capacitor.<br>
+<br>
+Step 6: Install the Raspberry Pi Pico board<br>
+CAUTION: Verify correct orientation before soldering down the Rasperry Pi Pico!<br>
+Place the two 20 pin stand offs onto the board.<br>
+Then place the Pico onto the stand offs and make sure everything fits flush.<br>
+The Pico should be facing with the USB connector towards the VGA connector location.<br>
+Solder the 40 pins onto the Pico then hold down the Pico, flip the board and solder the pins to the PCB<br>
+<br>
+Step 7: Install the VGA connector<br>
+![vga](https://github.com/Retrotink/PockeTerm-II/assets/121696513/09b62c6e-56cd-4fdc-ab0c-45e3034e3894)
+
+The VGA connector has 3 rows of pins. <br>
+Insert flush with PCB, turn and solder the inside row first, followed by the outer 2 rows. <br>
+Check your work, and then solder the support tabs down.<br>
+<br>
+Step 8: Install the 74LVC245 Buffer IC's into the sockets<br>
+You will need to pin the pins slightly inwards to align with the sockets.<br>
+Make sure all the IC's are facing towards the Voltage Regulator.<br>
+Check for bent pins. Check for missing solder points<br>
+
 
 
