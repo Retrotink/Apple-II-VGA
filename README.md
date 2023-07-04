@@ -72,7 +72,7 @@ Solder the leads onto the PCB and cut away the excess lead length.<br>
 ## Step 5: Install the 10uF Electrolytic Capacitor<br>
 ![cap10](https://github.com/Retrotink/PockeTerm-II/assets/121696513/c7e23a6e-7e4a-4e91-b1af-82b1a7c92350)
 
-The capacitor is polarized and must be installed correctly. <br>
+## CAUTION: The capacitor is polarized and must be installed correctly. <br>
 It is cylinder shaped and both leads protrude from the same side and are labeled 10uF. <br>
 There are two ways to tell the + and - leads. <br>
 First, looking at the leads, the + is longer than the – lead. <br>
@@ -98,9 +98,9 @@ The VGA connector has 3 rows of pins. <br>
 Insert flush with PCB, turn and solder the inside row first, followed by the outer 2 rows. <br>
 Check your work, and then solder the support tabs down.<br>
 <br>
-Step 8: Install the 74LVC245 Buffer IC's into the sockets<br>
+## Step 8: Install the 74LVC245 Buffer IC's into the sockets<br>
 You will need to pin the pins slightly inwards to align with the sockets.<br>
-Make sure all the IC's are facing towards the Voltage Regulator.<br>
+## CAUTION: Make sure all the IC's are facing towards the Voltage Regulator.<br>
 Check for bent pins. Check for missing solder points<br>
 
 
