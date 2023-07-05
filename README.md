@@ -102,6 +102,13 @@ Check your work, and then solder the support tabs down.<br>
 You will need to pin the pins slightly inwards to align with the sockets.<br>
 ## CAUTION: Make sure all the IC's are facing towards the Voltage Regulator.<br>
 Check for bent pins. Check for missing solder points<br>
-
+<br>
+## Solderfest 202/// all Pico chips are preprogrammed for the apple //e and will work on the apple ][ plus<br>
+<br>
+If you wish to program or update:<br>
+1. Press and hold the BOOTSEL button on the Pico while plugging into PC<br>
+2. A drive will appear on the PC called RPI-RPI2. Simply drag the *.UF2 firmware file to the RPI drive. <br>
+3. The RPI drive will then disappear<br>
+4. Remove the cable from the Pico and you can now use the Apple ][ VGA card in your Apple ][
 
 
