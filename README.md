@@ -34,10 +34,10 @@ Original design info: https://github.com/markadev/AppleII-VGA
 <br>
 Resistors are not polarized so they can be installed either direction. I like to start with the 100ohm resistors and work my way up to the 10K ohm resistors. The gold band is the percentage of accuracy. To read a resistor, start at the opposite side of the gold band.<br>
 <br>
-47 ohm resistors  - qty 2 - Colors Yellow Violet Black<br>
+47 ohm resistors -- qty 2 - Colors Yellow Violet Black<br>
 510 ohm resistors - qty 3 - Colors Green Brown Brown<br>
-1K ohm resistors  - qty 6 - Colors Brown Black Red<br>
-2K ohm resistors  - qty 3 - Colors Red Black Red<br>
+1K ohm resistors -- qty 6 - Colors Brown Black Red<br>
+2K ohm resistors -- qty 3 - Colors Red Black Red<br>
 10K ohm resistors - qty 4 - Colors Brown Black Orange<br>
 Bend the metal wires at a 90 degree angle on each side of the resistor body.<br>
 Place the resistor into the resistor location until it is flush with the PCB. <br>
