@@ -117,11 +117,11 @@ If you wish to program or update:<br>
 4. Remove the cable from the Pico and you can now use the Apple ][ VGA card in your Apple ][
 <br>
 
-# Acknowledgements
+## Acknowledgements
 
 Original design by Mark Aikens. Some minor modifications were made and a board layout made using original PI Pico source code. All parts are through hole for easy assembly. No surface mount components, simple to build.
 <br>
 https://github.com/markadev/AppleII-VGA
 <br>
-
+## Build at your own Risk
 
