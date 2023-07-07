@@ -2,8 +2,9 @@
 <br>![appleIIvga github logo](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/f0ab0489-d28a-4196-acec-dbffe0313f11)
 <br>
 
-![appleIIvga](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/6de70c4a-55b0-410c-aaee-c455f300293b)
+![20230707_130624](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/fd599701-3d3c-4dcb-8c3f-f5c6ed9e4cae)
 <br>
+
 This project is a VGA card for Apple II/II+ and //e computers to output a crisp RGB signal to a VGA monitor instead of having to rely on the composite output. This is accomplished by snooping the 6502 bus and creating a shadow copy of the video memory within a Raspberry Pi Pico, then processing the raw video memory contents to output a "perfect" signal. 
 <br>
 ![installed](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/b7b65cbc-0930-425f-b416-7a6d84813e2b)
