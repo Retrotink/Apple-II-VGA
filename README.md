@@ -32,6 +32,8 @@ Original design info: https://github.com/markadev/AppleII-VGA
 <br>
 <br>
 
+![BOM](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/b5a8c6dc-fdcf-43fd-aad2-9ceee531da3c)
+
 <br>
 <br>
 
