@@ -114,7 +114,7 @@ If you wish to program or update:<br>
 1. Press and hold the BOOTSEL button on the Pico while plugging into PC<br>
 2. A drive will appear on the PC called RPI-RPI2. Simply drag the *.UF2 firmware file to the RPI drive. <br>
 3. The RPI drive will then disappear<br>
-4. Remove the cable from the Pico and you can now use the Apple ][ VGA card in your Apple ][
+4. Remove the USB cable place the Apple ][ VGA card in your Apple ][
 <br>
 
 ## Acknowledgements
