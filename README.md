@@ -19,14 +19,6 @@ Double hi-res and 80 column mode on the //e only<br>
 ![screen demo](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/a0ca7209-4e73-4d6d-adb1-44c97370cf58)
 <br>
 
-# Acknowledgements
-
-Original design by Mark Aikens. Some minor modifications were made and a board layout made using original PI Pico source code. All parts are through hole for easy assembly. No surface mount components, simple to build.
-<br>
-<br>
-
-Original design info: https://github.com/markadev/AppleII-VGA
-<br>
 <br>
 # Bill Of Materiels<br>
 <br>
@@ -123,5 +115,13 @@ If you wish to program or update:<br>
 2. A drive will appear on the PC called RPI-RPI2. Simply drag the *.UF2 firmware file to the RPI drive. <br>
 3. The RPI drive will then disappear<br>
 4. Remove the cable from the Pico and you can now use the Apple ][ VGA card in your Apple ][
+<br>
+
+# Acknowledgements
+
+Original design by Mark Aikens. Some minor modifications were made and a board layout made using original PI Pico source code. All parts are through hole for easy assembly. No surface mount components, simple to build.
+<br>
+https://github.com/markadev/AppleII-VGA
+<br>
 
 
