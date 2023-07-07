@@ -26,6 +26,16 @@ Original design by Mark Aikens. Some minor modifications were made and a board l
 <br>
 
 Original design info: https://github.com/markadev/AppleII-VGA
+<br>
+<br>
+# Bill Of Materiels<br>
+<br>
+<br>
+
+<br>
+<br>
+
+
 
 # Soldering the Apple II VGA Card
 <br>
