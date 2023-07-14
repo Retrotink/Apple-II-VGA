@@ -28,6 +28,14 @@ Double hi-res and 80 column mode on the //e only<br>
 
 <br>
 <br>
+# Apple IIe internal Cable<br>
+
+<br>
+
+![IIe cable](https://github.com/Retrotink/Apple-II-VGA/assets/121696513/8a664895-5210-4637-b0e6-12749640af51)
+
+<br>
+
 
 
 
