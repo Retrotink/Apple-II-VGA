@@ -28,6 +28,7 @@ Double hi-res and 80 column mode on the //e only<br>
 
 <br>
 <br>
+
 # Apple IIe internal Cable<br>
 
 <br>
